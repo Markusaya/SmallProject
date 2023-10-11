@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #4fd6a9;
   color: white;
   text-align: center;
   padding: 20px;
@@ -22,6 +22,7 @@ main {
 }
 main section {
   background-color: white;
+  background: linear-gradient(#e66465, #9198e5);
   padding: 20px;
   margin: 20px 0;
   border: 1px solid #ddd;
@@ -29,4 +30,6 @@ main section {
 }
 main section h2 {
   font-size: 1.5rem;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
